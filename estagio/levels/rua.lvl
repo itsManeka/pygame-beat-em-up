@@ -1,0 +1,8 @@
+[level]
+nome = Teste
+background = bg1.png
+margin-top = 400
+margin-bottom = bottom
+margin-left = 40
+margin-right = 40
+proximo = selva.lvl

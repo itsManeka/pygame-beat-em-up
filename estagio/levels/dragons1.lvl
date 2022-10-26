@@ -1,0 +1,8 @@
+[level]
+nome = Dragons Stage 1
+background = bg5.png
+margin-top = 480
+margin-bottom = bottom
+margin-left = 40
+margin-right = 40
+proximo = dragons2.lvl

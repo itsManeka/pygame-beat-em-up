@@ -1,0 +1,8 @@
+[level]
+nome = Calabouço
+background = bg4.png
+margin-top = 245		
+margin-bottom = bottom
+margin-left = 40
+margin-right = 40
+proximo = dragons1.lvl

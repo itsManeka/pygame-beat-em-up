@@ -1,0 +1,8 @@
+[estagio]
+bg = test.png
+margin-top = 10
+margin-bottom = 100
+margin-left = 50
+margin-right = 50
+player-start-x = 10
+player-start-y = 10

@@ -1,0 +1,16 @@
+- Tipacao de variaveis conotacao hungara
+        ([localidade:l,i][tipo:i,s,c,d,o]nomeVariavel;
+        localidade:
+          - l: local
+          - i: instancia
+        tipo:
+          - i: inteiro
+          - s: string
+
+        exemplo: liCount > l de local, i de inteiro, e count de contar
+
+- Nomes maiusculos para classes e os arquivos da classe maiusculos
+- Metodos e variaveis camel case
+- Aspas simples para um unico caractere e aspas duplas para mais
+- Lingaugem portugues/ingles
+- Constantes tudo maiusculo. Nao aplicar conotacao hungara

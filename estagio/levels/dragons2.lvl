@@ -1,0 +1,8 @@
+[level]
+nome = Dragons Stage 2
+background = bg6.png
+margin-top = 455
+margin-bottom = bottom
+margin-left = 40
+margin-right = 40
+proximo = fim

@@ -1,0 +1,6 @@
+*.pyc
+*.orig
+*.directory
+*.desktop
+*Bkp.py
+*__pycache__

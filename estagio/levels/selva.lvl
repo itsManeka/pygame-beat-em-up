@@ -1,0 +1,8 @@
+[level]
+nome = Teste2
+background = bg2.png
+margin-top = 545
+margin-bottom = bottom
+margin-left = 40
+margin-right = 40
+proximo = lago.lvl
