@@ -1,0 +1,7 @@
+# Pygame Beat'em Up - Dependências
+
+# Biblioteca principal para desenvolvimento de jogos
+pygame>=1.9.2
+
+# Dependências opcionais para desenvolvimento
+# configparser  # Já incluído no Python 3.2+
